@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Scooby Doo: Facist Dog?
-## Explosive New Expose
-### He is not a facist.
+#Scooby Doo: Facist Dog?
+##Explosive New Expose
+###He is not a facist.
 
 - Bulleted
 - List
